@@ -81,6 +81,6 @@ Do these step in 2 different terminal windows
 
 Future updates may include:
 
--Implementation of multi-threading to enhance scraping speed.
--Support for multiple e-commerce platforms besides Amazon.
--Enhanced visualization options or sentiment analysis features.
+- Implementation of multi-threading to enhance scraping speed.
+- Support for multiple e-commerce platforms besides Amazon.
+- Enhanced visualization options or sentiment analysis features.
