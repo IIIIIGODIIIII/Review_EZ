@@ -37,6 +37,13 @@ This project caters to consumers interested in quickly understanding the overall
 
 2. Ensure you have Docker installed for project execution.
 
+3. To install the dependencies for BackEnd and FrontEnd just cd to their directory and type:
+
+   ```terminal 
+      npm install
+
+      The above method will install all the depenencies for FrontEnd and BackEnd
+   
 ### Usage
 
 1. Create a Docker Container and start it.
