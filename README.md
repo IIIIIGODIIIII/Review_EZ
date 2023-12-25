@@ -32,5 +32,43 @@ This project caters to consumers interested in quickly understanding the overall
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/your_project.git
-   cd your_project
+   git clone https://github.com/IIIIIGODIIIII/Review_EZ.git)https://github.com/IIIIIGODIIIII/Review_EZ.git
+   cd Review_EZ
+
+2. Ensure you have Docker installed for project execution.
+
+### Usage
+
+1. Create a Docker Container and start it.
+   
+2. Run the frontend and backend servers:
+
+   ```terminal
+   # Start backend server
+   cd BackEnd
+   nodemon index.js
+   
+   # Start frontend server
+   cd FrontEnd
+   npm start
+
+Do these step in 2 different terminal windows
+
+3. Execute FastAPI Integration.py in another terminal window
+   
+   ```python
+   python FastAPI Integration.py
+
+4. After following the above steps a new window will open which will ask the link for amazon product for which the wordcloud is to be generated, Just paste the product link and click Generate Image Button.
+
+5. Wait for 30-45 seconds and a wordcloud will be generated 
+
+## Additional Information 
+
+### Future Plans 
+
+Future updates may include:
+
+-Implementation of multi-threading to enhance scraping speed.
+-Support for multiple e-commerce platforms besides Amazon.
+-Enhanced visualization options or sentiment analysis features.
