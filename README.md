@@ -32,7 +32,7 @@ This project caters to consumers interested in quickly understanding the overall
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/IIIIIGODIIIII/Review_EZ.git)https://github.com/IIIIIGODIIIII/Review_EZ.git
+   git clone https://github.com/IIIIIGODIIIII/Review_EZ.git
    cd Review_EZ
 
 2. Ensure you have Docker installed for project execution.
