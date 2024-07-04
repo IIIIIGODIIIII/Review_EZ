@@ -63,7 +63,6 @@ The above method will install all the depenencies for FrontEnd and BackEnd
    # Start frontend server
    cd FrontEnd
    npm start
-
 Do these step in 2 different terminal windows
 
 3. Execute FastAPI Integration.py in another terminal window
