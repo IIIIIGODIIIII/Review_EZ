@@ -41,14 +41,12 @@ This project caters to consumers interested in quickly understanding the overall
 
    ```terminal 
       npm install
-
 The above method will install all the depenencies for FrontEnd and BackEnd
 
 4. Required Python Packages
 
    ```terminal
       pip install nltk rake-nltk uvicorn fastapi pandas beautifulsoup4 wordcloud 
-   
 ### Usage
 
 1. Create a Docker Container and start it.
